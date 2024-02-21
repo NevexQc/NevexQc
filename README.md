@@ -3,7 +3,7 @@
 - 🌱 I am learning to develop computer programs
 - 📫 You can contact me by email mohamadaiman1902@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact:My favourite video game is Assassin,s Creed
+- ⚡ Fun fact:My favourite video game is Assassin's Creed
 
 <!---
 NevexQc/NevexQc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
